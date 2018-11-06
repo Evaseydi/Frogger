@@ -55,7 +55,7 @@ public class Main extends StaticScreenGame {
 	private WindGust wind;
 	private HeatWave hwave;
 	private GoalManager goalmanager;
-	
+	//
 	private AbstractBodyLayer<MovingEntity> movingObjectsLayer;
 	private AbstractBodyLayer<MovingEntity> particleLayer;
 	
